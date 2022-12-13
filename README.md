@@ -1,5 +1,5 @@
-# appendix
-The appendix of the papers included in the thesis
+# Appendix
+The appendix of the papers included in the thesis can be found in the following papers
 
 Causal Discovery in the Presence of Missing Data 
 https://proceedings.mlr.press/v89/tu19a.html
