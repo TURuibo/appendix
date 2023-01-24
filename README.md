@@ -1,4 +1,4 @@
-# Appendix
+# Appendix and Errata
 
 The doctoral thesis is available at [DiVA](http://kth.diva-portal.org/smash/person.jsf?pid=authority-person%3A72497&dswid=9284).
 
