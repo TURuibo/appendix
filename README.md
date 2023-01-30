@@ -2,6 +2,8 @@
 
 The doctoral thesis is available at [DiVA](http://kth.diva-portal.org/smash/person.jsf?pid=authority-person%3A72497&dswid=9284).
 
+The errata of the doctoral thesis are in [Appendix](https://github.com/TURuibo/appendix/blob/main/errata.pdf). 
+
 The appendix of the papers included in the thesis can be found in the following papers
 
 [Paper A: Causal Discovery in the Presence of Missing Data](https://proceedings.mlr.press/v89/tu19a.html)
